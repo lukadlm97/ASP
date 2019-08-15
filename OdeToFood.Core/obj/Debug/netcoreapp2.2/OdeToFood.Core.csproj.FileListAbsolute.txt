@@ -1,0 +1,9 @@
+C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.deps.json
+C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.dll
+C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.pdb
+C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.dll
+C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.pdb
