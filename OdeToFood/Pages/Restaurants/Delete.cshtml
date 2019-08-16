@@ -1,0 +1,29 @@
+﻿@page "{restaurantId}"
+@model OdeToFood.Pages.Restaurants.DeleteModel
+@{
+    Layout = null;
+
+}
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+
+    <h2>Delete!</h2>
+    <div class="alert alert-danger">
+        Are you sure you want to delete @Model.Restaurant.Name?
+    </div>
+    <form method="post">
+        <button type="submit" class="alert alert-danger">Yes!</button>
+        <a asp-page="List" class="btn btn-default">Cancel!</a>
+    </form>
+</body>
+</html>

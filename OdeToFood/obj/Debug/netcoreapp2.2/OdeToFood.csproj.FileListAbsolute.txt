@@ -74,3 +74,4 @@ C:\Users\Luka\Desktop\ASP\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.Views.pdb
 C:\Users\Luka\Desktop\ASP\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.csproj.CopyComplete
 C:\Users\Luka\Desktop\ASP\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.dll
 C:\Users\Luka\Desktop\ASP\OdeToFood\obj\Debug\netcoreapp2.2\OdeToFood.pdb
+C:\Users\Luka\Desktop\ASP\OdeToFood\obj\Debug\netcoreapp2.2\Razor\Pages\Restaurants\Delete.g.cshtml.cs
