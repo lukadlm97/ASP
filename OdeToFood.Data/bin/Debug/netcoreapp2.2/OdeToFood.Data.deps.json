@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "e1b740bd4cbbf80bc4dbe62c80f2b9f14556af04"
+    "signature": "86544c0ebdb5f3dd6e7806a716d46dd6e2c4f825"
   },
   "compilationOptions": {},
   "targets": {
@@ -9,13 +9,16 @@
       "OdeToFood.Data/1.0.0": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "2.2.6",
+          "Microsoft.EntityFrameworkCore.Design": "2.2.6",
           "Microsoft.EntityFrameworkCore.SqlServer": "2.2.6",
-          "OdeToFood.Core": "1.0.0"
+          "OdeToFood.Core": "1.0.0",
+          "Microsoft.AspNetCore.Hosting": "2.2.0.0"
         },
         "runtime": {
           "OdeToFood.Data.dll": {}
         }
       },
+      "Microsoft.CSharp/4.5.0": {},
       "Microsoft.EntityFrameworkCore/2.2.6": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore.Abstractions": "2.2.6",
@@ -45,6 +48,18 @@
         }
       },
       "Microsoft.EntityFrameworkCore.Analyzers/2.2.6": {},
+      "Microsoft.EntityFrameworkCore.Design/2.2.6": {
+        "dependencies": {
+          "Microsoft.CSharp": "4.5.0",
+          "Microsoft.EntityFrameworkCore.Relational": "2.2.6"
+        },
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.EntityFrameworkCore.Design.dll": {
+            "assemblyVersion": "2.2.6.0",
+            "fileVersion": "2.2.6.19169"
+          }
+        }
+      },
       "Microsoft.EntityFrameworkCore.Relational/2.2.6": {
         "dependencies": {
           "Microsoft.EntityFrameworkCore": "2.2.6"
@@ -506,6 +521,14 @@
         "runtime": {
           "OdeToFood.Core.dll": {}
         }
+      },
+      "Microsoft.AspNetCore.Hosting/2.2.0.0": {
+        "runtime": {
+          "Microsoft.AspNetCore.Hosting.dll": {
+            "assemblyVersion": "2.2.0.0",
+            "fileVersion": "2.2.0.18316"
+          }
+        }
       }
     }
   },
@@ -514,6 +537,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "Microsoft.CSharp/4.5.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kaj6Wb4qoMuH3HySFJhxwQfe8R/sJsNJnANrvv8WdFPMoNbKY5htfNscv+LHCu5ipz+49m2e+WQXpLXr9XYemQ==",
+      "path": "microsoft.csharp/4.5.0",
+      "hashPath": "microsoft.csharp.4.5.0.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore/2.2.6": {
       "type": "package",
@@ -535,6 +565,13 @@
       "sha512": "sha512-BpNllkfZABCvMAaIL/pSLxTYYZQqiVesSG6xQpvelrlEfC0s9PS217Sq5Apn/zYW8ALtGoVEY12TblHrZ4SRRA==",
       "path": "microsoft.entityframeworkcore.analyzers/2.2.6",
       "hashPath": "microsoft.entityframeworkcore.analyzers.2.2.6.nupkg.sha512"
+    },
+    "Microsoft.EntityFrameworkCore.Design/2.2.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ouDKXTXY+ItF+PAK/jkp+Cp6Ve8Pd9sblyqOErjaiK7CzeN28peFsv3NfDeoqTAXXCCKEyuv/iXYtLs4r3wI0w==",
+      "path": "microsoft.entityframeworkcore.design/2.2.6",
+      "hashPath": "microsoft.entityframeworkcore.design.2.2.6.nupkg.sha512"
     },
     "Microsoft.EntityFrameworkCore.Relational/2.2.6": {
       "type": "package",
@@ -888,6 +925,11 @@
     },
     "OdeToFood.Core/1.0.0": {
       "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.AspNetCore.Hosting/2.2.0.0": {
+      "type": "reference",
       "serviceable": false,
       "sha512": ""
     }

@@ -2942,7 +2942,6 @@
       "path": "system.reflection.typeextensions/4.1.0",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "ThirdPartyNotices.txt",
         "dotnet_library_license.txt",
         "lib/MonoAndroid10/_._",
@@ -3595,23 +3594,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IRC_client\\.nuget\\packages\\": {},
+    "C:\\Users\\Luka\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\IRC_client\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "projectUniqueName": "C:\\Users\\Luka\\Desktop\\ASP\\OdeToFood.Data\\OdeToFood.Data.csproj",
       "projectName": "OdeToFood.Data",
-      "projectPath": "C:\\Users\\IRC_client\\Desktop\\OdeToFood\\OdeToFood.Data\\OdeToFood.Data.csproj",
-      "packagesPath": "C:\\Users\\IRC_client\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\IRC_client\\Desktop\\OdeToFood\\OdeToFood.Data\\obj\\",
+      "projectPath": "C:\\Users\\Luka\\Desktop\\ASP\\OdeToFood.Data\\OdeToFood.Data.csproj",
+      "packagesPath": "C:\\Users\\Luka\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Luka\\Desktop\\ASP\\OdeToFood.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\IRC_client\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Luka\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3624,8 +3623,8 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Users\\IRC_client\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj": {
-              "projectPath": "C:\\Users\\IRC_client\\Desktop\\OdeToFood\\OdeToFood.Core\\OdeToFood.Core.csproj"
+            "C:\\Users\\Luka\\Desktop\\ASP\\OdeToFood.Core\\OdeToFood.Core.csproj": {
+              "projectPath": "C:\\Users\\Luka\\Desktop\\ASP\\OdeToFood.Core\\OdeToFood.Core.csproj"
             }
           }
         }

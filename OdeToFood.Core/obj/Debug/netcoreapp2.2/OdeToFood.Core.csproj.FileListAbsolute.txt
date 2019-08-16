@@ -7,3 +7,12 @@ C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\Ode
 C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.AssemblyInfo.cs
 C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.dll
 C:\Users\IRC_client\Desktop\OdeToFood\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.pdb
+C:\Users\Luka\Desktop\ASP\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.deps.json
+C:\Users\Luka\Desktop\ASP\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.dll
+C:\Users\Luka\Desktop\ASP\OdeToFood.Core\bin\Debug\netcoreapp2.2\OdeToFood.Core.pdb
+C:\Users\Luka\Desktop\ASP\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.csprojAssemblyReference.cache
+C:\Users\Luka\Desktop\ASP\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\ASP\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.AssemblyInfoInputs.cache
+C:\Users\Luka\Desktop\ASP\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.AssemblyInfo.cs
+C:\Users\Luka\Desktop\ASP\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.dll
+C:\Users\Luka\Desktop\ASP\OdeToFood.Core\obj\Debug\netcoreapp2.2\OdeToFood.Core.pdb
