@@ -52,12 +52,14 @@
         </main>
     </div>
 
-    <footer class="border-top footer text-muted">
-        @RenderSection("footer", required: false);
-        <div class="container">
-            &copy; 2019 - Luka Radovanovic - <a asp-area="" asp-page="/Privacy">Privacy</a>
-        </div>
-    </footer>
+    <div class="container body-content">
+        @RenderBody()
+        <hr/>
+        <footer>
+            @RenderSection("footer",required:false)
+            <p>&copy;2019 - Luka Radovanovic</p>
+        </footer>
+    </div>
 
     <environment include="Development">
         <script src="~/lib/jquery/dist/jquery.js"></script>
